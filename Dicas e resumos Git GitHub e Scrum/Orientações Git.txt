@@ -1,0 +1,2 @@
+Link para download Git: https://git-scm.com/downloads
+Última versão usada: 2.35.3

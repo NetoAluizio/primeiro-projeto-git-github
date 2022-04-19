@@ -1,0 +1,33 @@
+Atenção: 
+	- Abrir o Git em uma pasta específica: Botão direito, 
+		seleciona Git Bash
+
+ls (lista pastas)
+-a (flag que mostra aquivos ocultos)
+git init (iniciar repositório no GIT)
+git add * (adiciona todos os arquivos)
+git add . (idem)
+git add -a (idem)
+git commit (comitar arquivos/pastas: git commit -m "informação 
+		sobre o repositório")
+git status (informa status dos arquivos)
+Exemplos: 
+	git config --global user.email "nome@gmail.com"
+		git config (setar configurações)
+		--global (para todo o git)
+		user.email " " (informar email)
+	git config --global user name NomeUsado
+		user.name (informar nome)
+Exemplos:
+	git config --global --unset user.email (apaga email)
+	git config --global --unset user.name (apaga nome)
+
+Exemplos:
+	git remote add origin link github (preparar para
+		"empurrar" projeto)
+	git remote -v (lista repositórios cadastrados)
+	git push origin main ("empurrar" projeto)
+
+Clonar:
+	git clone caminho no github
+	

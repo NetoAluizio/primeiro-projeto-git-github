@@ -1,0 +1,17 @@
+cd (navegação: cd pasta)
+cd / (navegação: vai ao diretório base)
+cd .. (navegação: retrocede um nível)
+dir (lista os diretórios contidos na pasta)
+tab (autocompletar digitação)
+mkdir (criar pasta: mkdir pasta)
+del (apaga arquivos: del arquivo)
+	Obs.: Apaga todos os arquivos de uma pasta, mas 
+		mantém a pasta: del pasta
+rmdir (apaga pastas com tudo: rmdir pasta /S /Q)
+seta pra cima (navega entre os comandos já usados)
+control+l (limpa tela/terminal Git Bash)
+cls (limpa tela/termnal Windows)
+echo (cria arquivo: echo arquivo > arquivo.txt)
+
+Atenção:
+Silence on success: tudo certo.

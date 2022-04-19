@@ -1,0 +1,11 @@
+Scrum/Estrutura: 
+	- Product Owner(PO);
+	- Scrum Master(SM);
+	- Time de Desenvolvimento(DEV).
+Scrum/Pilares:
+	- Transparência;
+	- Adaptação;
+	- Inspeção.
+Ágil x Tradicional: (M)inimum (V)iable (P)roduct
+Tradicional (Waterfall): por fases concluídas.
+Ágil: Incremental e Iterativo(em ciclos).
